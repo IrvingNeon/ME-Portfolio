@@ -1,2 +1,2 @@
 # ME-Portfolio
-Mechanical Engineering CAD models and techinical documentations
+This folder contains files related to the mechanical engineering projects I've done in my career, including CAD models and techinical documentations.
