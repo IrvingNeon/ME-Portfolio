@@ -1,0 +1,11 @@
+﻿"m"= 22.5 / 45mm'module
+"N"= 45'number of teeth
+"a"= 20deg'pressure angle
+"da"= "m" * ( "N" + 2 )'addendum circle diameter
+"df"= "m" * ( "N" - 2.5 )'dedendum circle diameter
+"db"= "m" * "N" * cos ( "a" )'basic circle diameter
+"rb"= "db" / 2'basic circle radius
+"s"= "m" * pi / 2'pitch circle tooth thickness
+"r"= "m" * 0.38'dedendum circle angle
+"B"= "d" * 0.3'tooth width
+"d"= 22.5mm
